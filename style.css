@@ -1,0 +1,91 @@
+html {
+    background-color: #5f5a52;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    color: #555;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}  
+  
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #eee3d3;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.quote-text {
+    font-family: 'Pacifico', cursive, italic;
+    font-size: 2em;
+    color: #000;
+    text-align: center;
+}
+
+.aboutus-title {
+    font-family: 'Pacifico', cursive, italic;
+    font-size: 1.6em;
+    color: #000;
+    text-align: center;
+}
+
+.aboutus-text {
+    font-family: 'Pacifico', cursive, italic;
+    font-size: 1.3em;
+    color: #000;
+    text-align: center;
+}
+
+.price-tag, .contact-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+}
+
+.price-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    width: 900px;
+    background-color: #e9e7e7;
+    border-radius: 10px;
+}
+
+.quote-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    width: 850px;
+    background-color: #cacaca;
+    border-radius: 10px;
+}
